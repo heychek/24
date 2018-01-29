@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/rank/levelList/levelList",
+    "pages/rank/rankDetail/rankDetail",
+    "pages/common/matching/matching",
+    "pages/common/gameRoom/gameRoom",
+    "pages/friendPK/choosePKType/choosePKType",
+    "pages/common/waitingFriendRoom/waitingFriendRoom",
+    "pages/friendPK/VSClassmate/chooseClassmate/chooseClassmate",
+    "pages/invited/invited",
+    "pages/rankingList/rankingList"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "24点",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "default"
+  }
+}

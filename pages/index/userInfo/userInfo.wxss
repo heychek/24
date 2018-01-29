@@ -1,0 +1,10 @@
+.container {
+  border: 1px solid #ddd;
+  width: 700rpx;
+  height: 300rpx;
+}
+
+.container image {
+  width: 50rpx;
+  height: 50rpx;
+}

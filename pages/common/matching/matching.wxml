@@ -1,0 +1,5 @@
+<!--pages/comon/matching/matching.wxml-->
+<text>这里是匹配房间</text>
+<view>
+  <text>当前socket连接状态是:{{connectState}}</text>
+</view>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "24点",
+  "usingComponents": {
+    "userInfo": "./userInfo/userInfo"
+  }
+}

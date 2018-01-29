@@ -1,0 +1,11 @@
+<view class="container">
+  <view class="left">
+    <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userAvatarUrl}}" background-size="cover"></image>
+      <text>{{userNickName}}</text>
+  </view>
+
+  <view class="right">
+  
+  </view>
+</view>
+<slot></slot>
